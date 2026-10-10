@@ -2,8 +2,11 @@
   "expo": {
     "name": "distribucion_pagos",
     "slug": "mi-calculadora-app",
-    "version": "1.0.0",
     "owner": "marcodevelopers-team",
+    "version": "1.0.0",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
     "android": {
       "package": "com.marcodeveloper.calculadora"
     },
