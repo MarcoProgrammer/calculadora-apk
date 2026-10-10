@@ -3,6 +3,7 @@
     "name": "distribucion_pagos",
     "slug": "snack-d768c234-ffcf-47dd-bc06-a4b529fb109e",
     "version": "1.0.0",
+    "owner": "marcodevelopers-team",
     "android": {
       "package": "com.marcodeveloper.calculadora"
     },
