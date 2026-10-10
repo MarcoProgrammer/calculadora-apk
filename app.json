@@ -3,29 +3,13 @@
     "name": "distribucion_pagos",
     "slug": "snack-d768c234-ffcf-47dd-bc06-a4b529fb109e",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
-      "package":"com.marcodeveloper.calculadora",
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
+      "package": "com.marcodeveloper.calculadora"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "description": "app para distribuir pagos"
+    "extra": {
+      "eas": {
+        "projectId": "9cf3425f-0ee0-4e69-8fed-374881d3787a"
+      }
+    }
   }
 }
